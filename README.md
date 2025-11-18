@@ -925,6 +925,7 @@ Network distributed filesystems.
 - [slskd](https://github.com/slskd/slskd) `⚠` - A modern client-server application for the Soulseek file sharing network. `AGPL-3.0` `Docker/C#`
 - [Transmission](https://transmissionbt.com/) - Fast, easy, free Bittorrent client. ([Source Code](https://github.com/transmission/transmission)) `GPL-3.0` `C++/deb`
 - [Webtor](https://github.com/webtor-io/self-hosted) - Web-based torrent client with instant audio/video streaming. ([Demo](https://webtor.io)) `MIT` `Docker`
+- [AltSendme](https://www.altsendme.com) - Minimal, functional file and folder sharing. ([Source Code](https://github.com/tonyantony300/alt-sendme)) `AGPL-3.0` `Rust`
 
 
 ### File Transfer - Single-click & Drag-n-drop Upload
